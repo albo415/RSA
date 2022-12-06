@@ -1,0 +1,16 @@
+RSA Guide
+
+1. Insert number p
+2. Click on P
+3. Insert number q
+4. Click on Q
+5. Insert number e
+6. To get result click E
+
+(d*e) mod [(p-1)*(q-1)] = 1 mod [(p-1)*(q-1)]
+
+If p, q and e are prime numbers then you get as result d.
+
+Font by Snickers, Mars inc.
+Attribution-NoDerivatives 4.0 International
+Creative Commons, created by Alberto Falciola
